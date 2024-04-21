@@ -1,0 +1,4 @@
+../Core/Inc/delay.h:10:22:DWT_Delay_us	24	static
+../Core/Src/calcule.c:6:6:Data_Output	40	static
+../Core/Src/calcule.c:16:6:Data_Input	40	static
+../Core/Src/calcule.c:26:6:Read_data	24	static
